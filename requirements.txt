@@ -1,0 +1,32 @@
+# Core
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# NLP
+nltk
+spacy
+
+# Image processing
+Pillow
+opencv-python
+
+# Jupyter support
+jupyter
+notebook
+ipykernel
+
+# Utilities
+tqdm
